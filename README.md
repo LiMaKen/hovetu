@@ -9,7 +9,7 @@
 <p align="center">
   <br><img src="https://github.com/hovetu/hovetu/blob/f56bb5ed817e3ec4125fd3b0cf0afa6513517d89/assets/gifs/snake.svg" width="450px">
 </p>
- <p align="center">⚙️ &nbsp;Im NOOB</p>
+ <h2 align="center">⚙️ &nbsp;Im NOOB</h2>
 <br>
 <p align="center">
 <a href="https://github.com/hovetu">
