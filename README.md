@@ -11,5 +11,4 @@
 </p>
 
 <h2 align="center"> fdsfdsf
-  <br><img src="https://github.com/hovetu/hovetu/blob/0f39d77cab87bf5844a7bfc566a6bc8e94684352/github-metrics.svg"><br> 
 </h2>
