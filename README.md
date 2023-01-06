@@ -9,15 +9,11 @@
 <p align="center">
   <br><img src="https://github.com/hovetu/hovetu/blob/f56bb5ed817e3ec4125fd3b0cf0afa6513517d89/assets/gifs/snake.svg" width="450px">
 </p>
-
-<h2 align="center"> fdsfdsf
-</h2>
  <p align="center">⚙️ &nbsp;Im NOOB</p>
 <br>
 <p align="center">
 <a href="https://github.com/hovetu">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hovetu&show_icons=true&theme=react&include_all_commits=true&locale=de"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hovetu&layout=compact&langs_count=8&theme=react&locale=de"/>
 </a>
   
 </p>
