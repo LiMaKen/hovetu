@@ -1,26 +1,15 @@
-### Hello
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arshsahzad" alt="arshsahzad"/></p>
 
+<h1 align="center"> Hola Mundo <img width="30px" src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/hi.gif">, I'm <a href="https://arsh.dev"> Arsh Sahzad </a><i>aka <del>Md Amir Ali</i></del></h1>
 
-### <p align="center">⚙️ &nbsp;Im NOOB</p>
-<br>
 <p align="center">
-<a href="https://github.com/hovetu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hovetu&show_icons=true&theme=react&include_all_commits=true&locale=de"/>
-  
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hovetu&layout=compact&langs_count=8&theme=react&locale=de"/>
-</a>
-  
-</p>
-
------
-
-### <p align="center">👀 &nbsp;Number of visitors</p>
-<br>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/hovetu/count.svg" />
+  <br><img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/developer.gif" width="450px">
 </p>
 
 <p align="center">
-  <a href="http://forthebadge.com/"><img src="https://forthebadge.com/images/badges/fuck-it-ship-it.svg" alt="forthebadge"/></a>
+  <br><img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/snake.svg" width="450px">
 </p>
 
+<h2 align="center"> Arsh Sahzad's Stats
+  <br><img src="https://github.com/arshsahzad/arshsahzad/blob/master/github-metrics.svg"><br> 
+</h2>
