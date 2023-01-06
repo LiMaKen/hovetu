@@ -6,6 +6,8 @@
 <p align="center">
 <a href="https://github.com/hovetu">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hovetu&show_icons=true&theme=react&include_all_commits=true&locale=de"/>
+  </a>
+  <a>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hovetu&layout=compact&langs_count=8&theme=react&locale=de"/>
 </a>
   
